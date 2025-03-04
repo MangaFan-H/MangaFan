@@ -1,0 +1,47 @@
+body {
+    background-color: #121826;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #f1c40f;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #3498db;
+    font-weight: bold;
+}
+
+p {
+    color: #635900;
+    text-align: center;
+}
+
+img {
+    border-radius: 15px;
+    display: block;
+    margin: 10px auto;
+    max-width: 90%;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.manga {
+    text-align: center;
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #121826;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    bottom: 0;
+    width: 100%;
+}
